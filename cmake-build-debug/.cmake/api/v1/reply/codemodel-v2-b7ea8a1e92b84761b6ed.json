@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/tommylee/Desktop/Programming/swift/Swift5/cmake-build-debug",
-		"source" : "/Users/tommylee/Desktop/Programming/swift/Swift5"
+		"build" : "/Users/junghunlee/Desktop/Programming/CLion/Swift5/cmake-build-debug",
+		"source" : "/Users/junghunlee/Desktop/Programming/CLion/Swift5"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }
