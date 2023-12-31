@@ -1,3 +1,0 @@
-/Users/junghunlee/Desktop/Programming/CLion/Swift5/cmake-build-debug/CMakeFiles/HelloWorld.dir
-/Users/junghunlee/Desktop/Programming/CLion/Swift5/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/junghunlee/Desktop/Programming/CLion/Swift5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
