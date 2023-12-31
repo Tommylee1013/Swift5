@@ -1,2 +1,4 @@
 **/*.c linguist-vendored
 **/*.cmake linguist-vendored
+**/*.o linguist-vendored
+**/*.cpp linguist-vendored
