@@ -2,3 +2,5 @@
 **/*.cmake linguist-vendored
 **/*.o linguist-vendored
 **/*.cpp linguist-vendored
+**/*.cbp linguist-vendored
+**/*.Makefile linguist-vendored
