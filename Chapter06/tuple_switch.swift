@@ -5,7 +5,7 @@ let tuple_value : name_age = ("tommy", 99)
 switch tuple_value {
     case ("tommy", 99) :
         print("you are exactly right")
-    case ("tommy", _) :
+    case ("tommy", _) : // wild card 식별자를 이용한 매칭
         print("tommy is \(tuple_value.age) years old")
     case (_, 99) :
         print("\(tuple_value.name) is 99 years old")
